@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "rehmatfalcon.github.io/TicTacToeReact/static/css/main.bf34ac3c.chunk.css",
+    "main.js": "rehmatfalcon.github.io/TicTacToeReact/static/js/main.34649c1f.chunk.js",
+    "main.js.map": "rehmatfalcon.github.io/TicTacToeReact/static/js/main.34649c1f.chunk.js.map",
+    "runtime-main.js": "rehmatfalcon.github.io/TicTacToeReact/static/js/runtime-main.5c302305.js",
+    "runtime-main.js.map": "rehmatfalcon.github.io/TicTacToeReact/static/js/runtime-main.5c302305.js.map",
+    "static/js/2.f21b8e25.chunk.js": "rehmatfalcon.github.io/TicTacToeReact/static/js/2.f21b8e25.chunk.js",
+    "static/js/2.f21b8e25.chunk.js.map": "rehmatfalcon.github.io/TicTacToeReact/static/js/2.f21b8e25.chunk.js.map",
+    "index.html": "rehmatfalcon.github.io/TicTacToeReact/index.html",
+    "precache-manifest.d295ffccf5f642420783b8d16b8a2967.js": "rehmatfalcon.github.io/TicTacToeReact/precache-manifest.d295ffccf5f642420783b8d16b8a2967.js",
+    "service-worker.js": "rehmatfalcon.github.io/TicTacToeReact/service-worker.js",
+    "static/css/main.bf34ac3c.chunk.css.map": "rehmatfalcon.github.io/TicTacToeReact/static/css/main.bf34ac3c.chunk.css.map",
+    "static/media/logo.svg": "rehmatfalcon.github.io/TicTacToeReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c302305.js",
+    "static/js/2.f21b8e25.chunk.js",
+    "static/css/main.bf34ac3c.chunk.css",
+    "static/js/main.34649c1f.chunk.js"
+  ]
+}
