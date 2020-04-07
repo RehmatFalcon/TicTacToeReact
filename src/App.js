@@ -91,6 +91,7 @@ function App() {
     setGameOver(false);
     setPlayer(1);
     setGameMatrix(getInitialGameMatrix());
+    setGameMoves([]);
   };
 
   return (
